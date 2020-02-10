@@ -1,4 +1,6 @@
 {
+  "name": "@ascendum/use-interval",
+  "author": "Alex Knipfer",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
@@ -27,8 +29,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-interval",
-  "author": "Alex Knipfer",
+  "publishConfig": {
+    "access": "public"
+  },
   "module": "dist/use-interval.esm.js",
   "devDependencies": {
     "@testing-library/react-hooks": "^3.2.1",
