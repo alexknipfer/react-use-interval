@@ -1,6 +1,9 @@
+[![Blazing Fast](https://badgen.net/npm/v/@ascendum/use-interval)](https://npm.im/@ascendum/use-interval)
+[![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
+
 # react-use-interval
 
-> This is an customized version of the react hook for setting an interval as posted on overreacted.io.
+This is an customized version of the react hook for setting an interval as posted on overreacted.io.
 
 ## Install
 
