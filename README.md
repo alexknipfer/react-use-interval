@@ -8,7 +8,7 @@ This is an customized version of the react hook for setting an interval as poste
 ## Install
 
 ```bash
-npm install --save use-interval
+npm install --save @ascendum/use-interval
 ```
 
 ## Usage
